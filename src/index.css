@@ -22,9 +22,9 @@ html, body, #root {
 
 #root {
   font-family: 'Baskerville Light', serif;
-  font-size: 1.25rem;
-  /* letter-spacing: 0.05rem; */
-  /* word-spacing: 0.125rem; */
+  font-size: 1.3rem;
+  /* letter-spacing: 0.05rem;
+  word-spacing: 0.125rem; */
 
   color-scheme: light dark;
   color: rgba(255, 255, 255, 0.87);
