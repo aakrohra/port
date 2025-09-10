@@ -1,0 +1,13 @@
+.footertext {
+    font-family: 'Baskerville Light';
+    font-size: 0.9375rem;
+    max-width: 70%;
+    text-align: center;
+    color: #fff;
+}
+
+.def {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}

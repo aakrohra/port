@@ -1,0 +1,28 @@
+.navbar {
+    font-family: 'Baskerville Light';
+    font-size: 1.125rem;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    padding: 1.2rem;
+}
+
+.nav-links {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+
+.nav-links a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.nav-links Link {
+    padding-bottom: 0.125rem;
+}
+
+.nav-links .active {
+    color: #e2b882;
+}

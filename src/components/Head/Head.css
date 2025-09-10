@@ -1,0 +1,23 @@
+#root {
+    padding-top: 3.125rem;
+}
+
+.all {
+    text-align: center;
+}
+
+.subheader {
+    font-family: 'Baskerville Light', serif;
+    font-size: 1.25rem;
+}
+
+.header {
+    font-family: 'Felix Titling', serif;
+    font-size: 2.5rem;
+}
+
+.page {
+    font-family: 'Felix Titling', serif;
+    font-size: 2.5rem;
+}
+

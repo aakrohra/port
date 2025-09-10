@@ -1,0 +1,14 @@
+.hometext {
+    font-family: 'Baskerville Light';
+    font-size: 0.96875rem;
+    max-width: 45%;
+    text-align: center;
+    color: #fff;
+}
+
+.homecontent {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 0.625rem;
+}
