@@ -25,4 +25,7 @@
 
 .nav-links .active {
     color: #e2b882;
+    background-color: rgba(0, 0, 0, 0.499);
+    padding: 0.14rem;
+    border-radius: 0.175rem; /* optional, rounds the corners */
 }
