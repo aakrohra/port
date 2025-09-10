@@ -12,3 +12,9 @@
     align-items: center;
     padding-top: 0.625rem;
 }
+
+@media (max-width: 1000px) {
+  .hometext {
+    max-width: 70%;
+  }
+}

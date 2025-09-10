@@ -60,4 +60,8 @@ iFrame {
     text-align: center;
   }
 
+  .preamble {
+    max-width: 70%;
+  }
+
 }
